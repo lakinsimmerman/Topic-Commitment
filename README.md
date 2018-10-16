@@ -4,6 +4,9 @@ My idea for this assignment is probiotics. I would title it the "The Wonders of 
 
 
 Home page: What are probiotics (overview)
+
 2nd blog: Who needs probiotics
+
 3rd blog: What time of day to take probiotics and how often do you need them
+
 4th blog: What kinds of probiotics are there, options
